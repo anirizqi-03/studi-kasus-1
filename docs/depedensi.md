@@ -2,7 +2,7 @@
 
 **Disusun oleh:** ⟦Ani Rizqi Ziarotus S./ E41251131⟧
 **Tanggal:** ⟦2026-11-22⟧
-**Repo:** ⟦URL GitHub⟧
+**Repo:** ⟦[URL GitHub](https://github.com/anirizqi-03/studi-kasus-1.git)⟧
 
 ---
 
