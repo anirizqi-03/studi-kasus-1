@@ -1,0 +1,5 @@
+{
+  "name": "monorepo-uji",
+  "private": true,
+  "workspaces": ["service-a", "service-b"]
+}
